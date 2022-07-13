@@ -1,0 +1,15 @@
+- git init -m -> iniciar o git na pasta 
+- git add . -> add as mudanças para staget (controle de versão local)
+- git commit -m-> ciar commit
+- git push origin main -> enviando os commits pra nuvem 
+- git clone -> clona o arquivo no git online para a máquina
+- cd -> entrar em uma pasta
+- c .. -> sair de uma pasta
+- ls -> lista e mostra toda as pastas
+- Ctrl L -> Limpar a interface
+- mkdir (nome) -> criar repositório
+- ls -a -> Ver pasta oculta
+- git config --global user.email "nome@gmail.com" -> configurar inicial de email em arquivo global
+- git config --global user.name nome -> configurar inicial de nome em arquivo global
+- git status status do arquivo se está unmodified, modified ou staget
+- mv (arquivo) ./(pasta)/ -> mover aquivo para uma pasta

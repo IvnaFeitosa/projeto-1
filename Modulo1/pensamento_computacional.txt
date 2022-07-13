@@ -1,0 +1,5 @@
+Pensamento computacional:
+Resolução de problemas em passos computacionais ou em algoritmos que podem ser aplicados em um computador;
+É uma habilidade generalizada;
+É baseado em 4 pilares: Decomposição, reconhecimento de padrões, Abstração e design de algorítmos
+Link dos slides https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view
