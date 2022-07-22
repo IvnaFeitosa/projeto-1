@@ -13,3 +13,29 @@
 - git config --global user.name nome -> configurar inicial de nome em arquivo global
 - git status status do arquivo se está unmodified, modified ou staget
 - mv (arquivo) ./(pasta)/ -> mover aquivo para uma pasta
+
+Passos para enviar as mudificações da pasta 
+git status
+git add *
+git status
+git commit -m "o que você está adicionando"
+git push origin master
+
+Passos para enviar mudanças pra o repositório que já foi modificado
+git status
+git add *
+git status
+git commit -m "o que você está adicionando"
+git push origin master
+git pull origin master 
+/*se tiver alteração na mesma linha vai aparecer desconfigurado. 
+Deve-se ir lá e alterar manualmente. Após isso, refaz o procedimento 
+para empurrar a versão alterada para o github */
+git status
+git add *
+git status
+git commit -m "o que você está adicionando"
+git push origin master
+
+Como baixar um repositório para sua máquina(clonar pra sua maquina)
+git clone (URL)
